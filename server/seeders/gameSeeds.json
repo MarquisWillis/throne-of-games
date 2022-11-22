@@ -1,0 +1,211 @@
+[
+    {
+            "image": "/img/minecraft.jpg",
+            "cardimage":"/img/MinecraftCard.jpg",
+            "title": "Minecraft Dungeons",
+            "price": 19.99,
+            "summary": "Fight your way through an exciting action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels – all in an epic quest to save the villagers and take down the evil Arch-Illager!",
+            "description": "Fight your way through an exciting action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels – all in an epic quest to save the villagers and take down the evil Arch-Illager!",
+            "rating": "Everyone 10+"
+        },
+
+         {
+            "image": "/img/apex.jpg", 
+            "cardimage":"/img/ApexCard.jpg",
+            "title": "Apex Legends",
+            "price": 0,
+            "summary": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+            "description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier. Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience — all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.",
+            "rating": "T for Teen"
+        },
+
+         {
+            "image":"/img/lostark.jpg",
+            "cardimage":"/img/LostArkCard.jpg",
+            "title": "Lost Ark",
+            "price": 0,
+            "summary": "Embark on an odyssey for the Lost Ark in a vast, vibrant world. Define your fighting style with your class and advanced class, and customize your skills, weapons, and gear to bring your might to bear as you fight against hordes of enemies, colossal bosses, and dark forces seeking the power of the Ark in this action-packed free-to-play RPG.",
+            "description": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat. Define your fighting style with your class and advanced class, and customize your skills, weapons, and gear to bring your might to bear as you fight against hordes of enemies, colossal bosses, and dark forces seeking the power of the Ark in this action-packed free-to-play RPG.",
+            "rating": "M for Mature 17+"
+        },
+
+        {
+            "image":"/img/bdo.jpg",
+            "cardimage":"BlackDesertCard.jpg",
+            "title": "Black Desert",
+            "price": 9.99,
+            "summary": "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
+            "description": "Black Desert is a game that tests the limitations of MMORPG by implementing remastered graphics and audio. Enjoy exciting combat and siege, exploration, trading, fishing, training, alchemy, cooking, gathering, hunting, and more in the vast open world. Black Desert - A true MMORPG.",
+            "rating": "T for Teen"
+        },
+
+        {
+            "image":"/img/gta.jpg",
+            "cardimage":"/img/GrandTheftCard.jpg",
+            "title": "Grand Theft Auto V",
+            "price": 14.99,
+            "summary": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+            "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.The game offers players a huge range of PC-specific customization options, including over 25 separate configurable settings for texture quality, shaders, tessellation, anti-aliasing and more, as well as support and extensive customization for mouse and keyboard controls. Additional options include a population density slider to control car and pedestrian traffic, as well as dual and triple monitor support, 3D compatibility, and plug-and-play controller support.",
+            "rating": "M for Mature"
+        },
+
+        {
+            "image":"/img/sims.webp",
+            "cardimage":"/SimsCard.jpg",
+            "title": "The Sims 4",
+            "price": 19.99,
+            "summary": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
+            "description": "Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes and much more. Choose how Sims look, act and dress. Determine how they’ll live out each day. Design and build incredible homes for every family, then decorate with your favorite furnishings and décor. Travel to different neighborhoods where you can meet other Sims and learn about their lives. Discover beautiful locations with distinctive environments, and go on spontaneous adventures. Manage the ups and downs of Sims’ everyday lives, and see what happens when you play out realistic or fantastical scenarios. Tell your stories your way while developing relationships, pursuing careers and life aspirations and immersing yourself in an extraordinary game where the possibilities are endless.",
+            "rating": "T for Teen"
+        },
+
+        {
+            "image":"/img/stardew.png",
+            "cardimage":"/StardewCard.jpg",
+            "title": "Stardew Valley",
+            "price": 14.99,
+            "summary": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+            "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!",
+            "rating": "Everyone 10+"
+        },
+
+        {
+            "image":"/img/assassins.jpg",
+            "cardimage":"/img/AssassinsCard.jpg",
+            "title": "Assassin's Creed Odyssey",
+            "price": 11.99,
+            "summary": "Choose your fate in Assassin's Creed® Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece.",
+            "description": "Choose your fate in Assassin's Creed® Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece. TRAVEL TO ANCIENT GREECE From lush vibrant forests to volcanic islands and bustling cities, start a journey of exploration and encounters in a war torn world shaped by gods and men. FORGE YOUR LEGEND Your decisions will impact how your odyssey unfolds. Play through multiple endings thanks to the new dialogue system and the choices you make. Customize your gear, ship, and special abilities to become a legend.FIGHT ON A NEW SCALEDemonstrate your warrior's abilities in large scale epic battles between Athens and Sparta featuring hundreds of soldiers, or ram and cleave your way through entire fleets in naval battles across the Aegean Sea.GAZE IN WONDER Experience the action in a whole new light with Tobii Eye Tracking. The Extended View feature gives you a broader perspective of the environment, and the Dynamic Light and Sun Effects immerse you in the sandy dunes according to where you set your sights. Tagging, aiming and locking on your targets becomes a lot more natural when you can do it by looking at them. Let your vision lead the way and enhance your gameplay.",
+            "rating": "M for Mature"
+        },
+
+         {
+            "image":"/img/cod.jpg",
+            "cardimage":"/img/CODcard.jpg",
+            "title": "Call of Duty: Modern Warfare II",
+            "price": 19.99,
+            "summary": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
+            "description": "Welcome to the new era of Call of Duty®.Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141. From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside friends in a truly immersive experience.Infinity Ward brings fans state-of-the-art gameplay, with all-new gun handling, advanced AI system, a new Gunsmith and a suite of other gameplay and graphical innovations that elevate the franchise to new heights.Modern Warfare® II will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.",
+            "rating": "M for Mature"
+        },
+
+        {
+            "image":"/img/demon.jpg",
+            "cardimage":"/img/DemonCard.jpg",
+            "title": "Demon Slayer",
+            "price": 35.99,
+            "summary": "In Adventure Mode, follow Tanjiro through the story from the Demon Slayer: Kimetsu no Yaiba anime as he faces demons in order to turn his sister Nezuko, who has become a demon, back into a human. In Versus Mode, characters from the anime, including Tanjiro and become the greatest demon slayer you can!",
+            "description": "In Adventure Mode, follow Tanjiro through the story from the Demon Slayer: Kimetsu no Yaiba anime as he faces demons in order to turn his sister Nezuko, who has become a demon, back into a human. In Versus Mode, characters from the anime, including Tanjiro and Nezuko, can be freely matched against each other in a 2 vs 2 setting with up to 2 players on or offline! Enjoy this simple but exhilalrating battle system, and become the greatest demon slayer you can!",
+            "rating": "T for Teen"
+        },
+
+        {
+            "image":"/img/fallout.jpg",
+            "cardimage":"/img/FalloutCard.jpg",
+            "title": "Fallout 3",
+            "price": 4.99,
+            "summary": "Prepare for the Future™ With Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+            "description": "With Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival. Fallout 3: Game of the Year Edition includes all five of the Fallout 3 Game Add-on Packs: Operation: Anchorage - Enter a military simulation and fight in the liberation of Anchorage, Alaska from its Chinese Communist invaders. The Pitt - Travel to the post-apocalyptic remains of Pittsburgh and become embroiled in a conflict between slaves and their Raider masters.Broken Steel - Increase your level cap to 30, and finish the fight against the Enclave remnants alongside Liberty Prime.Point Lookout - Embark on a mysterious and open-ended adventure in a huge, murky swampland along the coast of Maryland.Mothership Zeta - Defy hostile alien abductors and fight your way off of the alien mothership, orbiting miles above the Capital Wasteland.",
+            "rating": "M for Mature"
+        },
+
+        {
+            "image":"/img/destiny.jpg",
+            "cardimage":"/img/DestinyCard.jpg",
+            "title": "Destiny 2",
+            "price": 0,
+            "summary": "Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free. Dive into the world of Destiny 2 to explore the mysteries of the solar system and experience responsive first-person shooter combat. Unlock powerful elemental abilities and collect unique gear to customize your Guardian's look and playstyle.",
+            "description": "Dive into the world of Destiny 2 to explore the mysteries of the solar system and experience responsive first-person shooter combat. Unlock powerful elemental abilities and collect unique gear to customize your Guardian's look and playstyle. Enjoy Destiny 2’s cinematic story, challenging co-op missions, and a variety of PvP modes alone or with friends. Download for free today and write your legend in the stars.",
+            "rating": "T for Teen"
+        },
+
+        {
+            "image":"/img/tales.jpg",
+            "cardimage":"/img/TalesCard.jpg",
+            "title": "Tales of Arise",
+            "price": 23.99,
+            "summary": "300 years of tyranny. A mysterious mask. Lost pain and memories. Wield the Blazing Sword and join a mysterious, untouchable girl to fight your oppressors. Experience a tale of liberation, featuring characters with next-gen graphical expressiveness!",
+            "description": "Explore the world of Dahna, where a mix of unique, natural environments change in appearance based on the time of day. Climb over the rocky terrain, swim in rivers, gather around the campfire, cook food, head to the next town, defeat the master of an alien planet, and liberate the people! The protagonists who will determine the fate of these two worlds are Alphen and Shionne. They will overcome hardships and grow together with their unique group of friends. Gorgeous animation by ufotable is inserted at key points in the story, adding more color to our protagonists’ journey.",
+            "rating": "T for Teen"
+        },
+
+       {
+            "image":"/img/beatsaber.webp",
+            "cardimage":"/img/BeatSaberCard.jpg",
+            "title": "Beat Saber",
+            "price": 29.99,
+            "summary": "Beat Saber is a VR rhythm game where you slash the beats of adrenaline-pumping music as they fly towards you, surrounded by a futuristic world.",
+            "description": "Beat Saber is an immersive rhythm experience you have never seen before! Enjoy tons of handcrafted levels and swing your way through the pulsing music beats, surrounded by a futuristic world. Use your sabers to slash the beats as they come flying at you – every beat indicates which saber you need to use and the direction you need to match. With Beat Saber you become a dancing superhero!",
+            "rating": "none listed"
+
+        },
+
+        {
+            "image":"/img/fifa.jpg",
+            "cardimage":"/img/FIFAcard.jpg",
+            "title": "EA Sports FIFA 23",
+            "price": 69.99,
+            "summary": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology that delivers even more gameplay realism, men’s and women’s FIFA World Cup™ coming during the season, women’s club teams, cross-play features*, and more.",
+            "description": "EA SPORTS™ FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology that delivers even more gameplay realism, both the men’s and women’s FIFA World Cup™ coming to the game as post-launch updates, the addition of women’s club teams, cross-play features*, and more. Experience unrivaled authenticity with over 19,000 players, 700+ teams, 100 stadiums, and over 30 leagues in FIFA 23.",
+            "rating": "E for Everyone"
+        },
+
+       {
+            "image":"/img/nfl.jpg",
+            "cardimage":"/img/MaddenCard.jpg",
+            "title": "Madden NFL 23",
+            "price": 38.99,
+            "summary": "Play your way into the history books. Control your impact with every decision in all-new ways. Call the shots in Franchise with free agency and trade logic updates, leave a legacy in Face of the Franchise: The League, and assemble the most powerful roster in all of Madden Ultimate Team™.",
+            "description": "The League drops you into your fifth NFL season at a skill position of your choice (QB, WR, RB, CB, MLB), and you’re seeking a fresh start with a new team. Negotiate a 1-year “prove-it” contract with one of 32 NFL teams, and show out with great on-field performance to earn rewards and level up. The addition of New Drive Goals and Drive Summaries allows you to tweak your experience throughout a game and get feedback and rewards based on how well you play. Get performance boosts from weekly activities and training between games while Madden Rating's Adjustor Chad Johnson guides your career development by providing rating's updates as you strive for the highest level of prestige on your Road to 99. Will your NFL career rank among the all-time greats? It’s up to you.",
+            "rating": "E for Everyone"
+        },
+
+        {
+            "image":"/img/final.webp",
+            "cardimage":"/FinalFantastyCard.jpg",
+            "title": "Final Fantasy VII Remake Intergrade",
+            "price": 69.99,
+            "summary": "Cloud Strife, an ex-SOLDIER operative, descends on the mako-powered city of Midgar. The world of the timeless classic FINAL FANTASY VII is reborn, using cutting-edge graphics technology, a new battle system and an additional adventure featuring Yuffie Kisaragi.",
+            "description": "FINAL FANTASY VII REMAKE is a bold reimagining of the original FINAL FANTASY VII, originally released in 1997, developed under the guidance of the original key developers. This critically-acclaimed game, which mixes traditional command-based combat and real-time action, makes its Steam debut along with FF7R EPISODE INTERmission─a new story arc featuring Yuffie Kisaragi. By exploiting mako, the life-blood of the planet, through their mako reactors, the Shinra Electric Power Company has all but seized control of the entire world. A ragtag group of idealists, known as Avalanche, are one of the last bastions of resistance. Cloud, an elite SOLDIER operative-turned-mercenary takes part in an Avalanche operation to destroy Mako Reactor 1 in the city of Midgar.The bombing plunges the city into fiery chaos, and Cloud is tormented by visions of a bitter enemy long thought dead. Once more begins a story that will shape the destiny of an entire world.",
+            "rating": "T for Teen"
+        },
+
+        {
+            "image":"/img/counterstrike.jpg",
+            "cardimage":"/img/CounterStrikeCard.jpg",
+            "title": "Counter-Strike: Global Offensive",
+            "price": 0,
+            "summary": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+            "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.). Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999,' said Doug Lombardi at Valve. 'For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+            "rating": "none listed"
+        },
+
+        {
+            "image":"/img/deadbydaylight.jpg",
+            "cardimage":"/img/deadbydaylight.jpg",
+            "title": "Dead by Daylight ",
+            "price": 19.99,
+            "summary": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+            "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.Survivors play in third-person and have the advantage of better situational awareness. The Killer plays in first-person and is more focused on their prey.The Survivors' goal in each encounter is to escape the Killing Ground without getting caught by the Killer - something that sounds easier than it is, especially when the environment changes every time you play.",
+            "rating": "M for Mature"
+        },
+
+        {
+            "image":"/img/elden.jpg",
+            "cardimage":"/img/EldenCard.jpg",
+            "title": "Elden Ring",
+            "price": 59.99,
+            "summary": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+            "description": "A vast world where open fields with a variety of situations and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats await you, leading to a high sense of accomplishment.",
+            "rating": "M for Mature"
+        },
+        {
+            "image":"/img/red.jpg",
+            "cardimage":"/img/deadbydaylight.jpg",
+            "title": "Read Dead Redemption 2",
+            "price": 19.99,
+            "summary": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+            "description": "America, 1899. Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.",
+            "rating": "M for Mature"
+        }
+    ]
